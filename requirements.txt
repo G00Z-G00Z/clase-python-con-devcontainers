@@ -1,6 +1,6 @@
-numpy
 matplotlib
 med2image
 nibabel
+numpy
 pillow
 pydicom
