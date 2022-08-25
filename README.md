@@ -68,3 +68,11 @@ RUN pip3 --disable-pip-version-check --no-cache-dir install -r /tmp/pip-tmp/requ
 - Hacer un `plt.savefigure('figura')` para salvarlo en tus archivos. De ahi puedes ver la figura.
 
 [vs_code_extension_url]: https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers
+
+# Como manejar ambiente virtual
+
+Para manejar el ambiente virtual, se maneja de manera normal, pero si estas en
+un repositorio, el enviroment no se debe guardar en git. Para mas informacion,
+puedes [leer este
+blog](https://medium.com/wealthy-bytes/the-easiest-way-to-use-a-python-virtual-environment-with-git-401e07c39cde)
+
